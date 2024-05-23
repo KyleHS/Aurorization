@@ -1,1 +1,1 @@
-# Aurorization
+# Authorization
